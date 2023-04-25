@@ -1,0 +1,256 @@
+Trainset: 14
+Route Length: 61653.074214880624
+Railroad Cars:
+Car ID: 106, Weight: 110.0, Type: PassengerCar
+Car ID: 107, Weight: 128.0, Type: PassengerCar
+Car ID: 112, Weight: 152.0, Type: HeavyFreightCar
+Car ID: 110, Weight: 155.0, Type: RestaurantCar
+Car ID: 109, Weight: 168.0, Type: RefrigeratedCar
+Car ID: 105, Weight: 178.0, Type: LiquidMaterialsCar
+Car ID: 108, Weight: 199.0, Type: ToxicMaterialsCar
+Car ID: 111, Weight: 199.0, Type: GaseousMaterialsCar
+
+Trainset: 1
+Route Length: 56902.50004340694
+Railroad Cars:
+Car ID: 8, Weight: 116.0, Type: RestaurantCar
+Car ID: 9, Weight: 149.0, Type: BaggageAndMailCar
+Car ID: 13, Weight: 170.0, Type: ToxicMaterialsCar
+Car ID: 14, Weight: 171.0, Type: PassengerCar
+Car ID: 10, Weight: 175.0, Type: FreightBasicCar
+Car ID: 11, Weight: 184.0, Type: ExplosivesCar
+Car ID: 12, Weight: 187.0, Type: RefrigeratedCar
+
+Trainset: 6
+Route Length: 54135.20700354375
+Railroad Cars:
+Car ID: 47, Weight: 102.0, Type: FreightBasicCar
+Car ID: 50, Weight: 131.0, Type: RestaurantCar
+Car ID: 44, Weight: 136.0, Type: ExplosivesCar
+Car ID: 51, Weight: 136.0, Type: LiquidToxicMaterialsCar
+Car ID: 49, Weight: 155.0, Type: LiquidToxicMaterialsCar
+Car ID: 52, Weight: 160.0, Type: ExplosivesCar
+Car ID: 46, Weight: 164.0, Type: LiquidMaterialsCar
+Car ID: 45, Weight: 181.0, Type: ToxicMaterialsCar
+Car ID: 48, Weight: 181.0, Type: LiquidMaterialsCar
+
+Trainset: 0
+Route Length: 50721.52218805318
+Railroad Cars:
+Car ID: 5, Weight: 106.0, Type: HeavyFreightCar
+Car ID: 1, Weight: 120.0, Type: BaggageAndMailCar
+Car ID: 6, Weight: 122.0, Type: PassengerCar
+Car ID: 2, Weight: 141.0, Type: GaseousMaterialsCar
+Car ID: 0, Weight: 150.0, Type: FreightBasicCar
+Car ID: 3, Weight: 172.0, Type: PostOfficeCar
+Car ID: 4, Weight: 182.0, Type: RefrigeratedCar
+Car ID: 7, Weight: 193.0, Type: FreightBasicCar
+
+Trainset: 12
+Route Length: 49438.039681341914
+Railroad Cars:
+Car ID: 91, Weight: 111.0, Type: FreightBasicCar
+Car ID: 93, Weight: 114.0, Type: FreightBasicCar
+Car ID: 97, Weight: 117.0, Type: ToxicMaterialsCar
+Car ID: 94, Weight: 121.0, Type: GaseousMaterialsCar
+Car ID: 96, Weight: 126.0, Type: BaggageAndMailCar
+Car ID: 95, Weight: 158.0, Type: GaseousMaterialsCar
+Car ID: 92, Weight: 167.0, Type: RestaurantCar
+
+Trainset: 23
+Route Length: 49087.41702447604
+Railroad Cars:
+Car ID: 174, Weight: 100.0, Type: ToxicMaterialsCar
+Car ID: 183, Weight: 106.0, Type: LiquidToxicMaterialsCar
+Car ID: 180, Weight: 117.0, Type: ToxicMaterialsCar
+Car ID: 182, Weight: 137.0, Type: LiquidMaterialsCar
+Car ID: 179, Weight: 145.0, Type: ToxicMaterialsCar
+Car ID: 175, Weight: 160.0, Type: HeavyFreightCar
+Car ID: 181, Weight: 169.0, Type: ToxicMaterialsCar
+Car ID: 178, Weight: 185.0, Type: PassengerCar
+Car ID: 176, Weight: 189.0, Type: PassengerCar
+Car ID: 177, Weight: 197.0, Type: LiquidMaterialsCar
+
+Trainset: 17
+Route Length: 46728.535473832846
+Railroad Cars:
+Car ID: 132, Weight: 107.0, Type: BaggageAndMailCar
+Car ID: 131, Weight: 111.0, Type: ToxicMaterialsCar
+Car ID: 133, Weight: 142.0, Type: ToxicMaterialsCar
+Car ID: 130, Weight: 145.0, Type: HeavyFreightCar
+Car ID: 129, Weight: 155.0, Type: HeavyFreightCar
+Car ID: 134, Weight: 179.0, Type: GaseousMaterialsCar
+Car ID: 128, Weight: 190.0, Type: PassengerCar
+
+Trainset: 15
+Route Length: 42443.9491542297
+Railroad Cars:
+Car ID: 117, Weight: 111.0, Type: PassengerCar
+Car ID: 113, Weight: 122.0, Type: FreightBasicCar
+Car ID: 114, Weight: 128.0, Type: LiquidMaterialsCar
+Car ID: 121, Weight: 131.0, Type: RestaurantCar
+Car ID: 118, Weight: 132.0, Type: LiquidMaterialsCar
+Car ID: 115, Weight: 159.0, Type: ExplosivesCar
+Car ID: 119, Weight: 176.0, Type: LiquidMaterialsCar
+Car ID: 120, Weight: 177.0, Type: HeavyFreightCar
+Car ID: 116, Weight: 181.0, Type: ExplosivesCar
+
+Trainset: 16
+Route Length: 40838.535768606926
+Railroad Cars:
+Car ID: 123, Weight: 112.0, Type: ToxicMaterialsCar
+Car ID: 122, Weight: 138.0, Type: GaseousMaterialsCar
+Car ID: 125, Weight: 148.0, Type: GaseousMaterialsCar
+Car ID: 124, Weight: 154.0, Type: PassengerCar
+Car ID: 127, Weight: 174.0, Type: LiquidToxicMaterialsCar
+Car ID: 126, Weight: 198.0, Type: LiquidMaterialsCar
+
+Trainset: 20
+Route Length: 37004.15257623382
+Railroad Cars:
+Car ID: 154, Weight: 116.0, Type: BaggageAndMailCar
+Car ID: 157, Weight: 168.0, Type: GaseousMaterialsCar
+Car ID: 155, Weight: 176.0, Type: ToxicMaterialsCar
+Car ID: 158, Weight: 177.0, Type: BaggageAndMailCar
+Car ID: 160, Weight: 188.0, Type: ToxicMaterialsCar
+Car ID: 159, Weight: 189.0, Type: LiquidToxicMaterialsCar
+Car ID: 156, Weight: 196.0, Type: RestaurantCar
+
+Trainset: 3
+Route Length: 34935.911708540545
+Railroad Cars:
+Car ID: 24, Weight: 133.0, Type: RestaurantCar
+Car ID: 23, Weight: 137.0, Type: BaggageAndMailCar
+Car ID: 25, Weight: 146.0, Type: PassengerCar
+Car ID: 21, Weight: 147.0, Type: LiquidToxicMaterialsCar
+Car ID: 22, Weight: 169.0, Type: BaggageAndMailCar
+
+Trainset: 21
+Route Length: 33240.660187338115
+Railroad Cars:
+Car ID: 166, Weight: 106.0, Type: HeavyFreightCar
+Car ID: 162, Weight: 109.0, Type: HeavyFreightCar
+Car ID: 165, Weight: 117.0, Type: BaggageAndMailCar
+Car ID: 167, Weight: 130.0, Type: GaseousMaterialsCar
+Car ID: 163, Weight: 149.0, Type: HeavyFreightCar
+Car ID: 164, Weight: 164.0, Type: BaggageAndMailCar
+Car ID: 161, Weight: 190.0, Type: FreightBasicCar
+
+Trainset: 11
+Route Length: 31683.899637614817
+Railroad Cars:
+Car ID: 85, Weight: 114.0, Type: PassengerCar
+Car ID: 90, Weight: 160.0, Type: ToxicMaterialsCar
+Car ID: 89, Weight: 162.0, Type: BaggageAndMailCar
+Car ID: 86, Weight: 165.0, Type: GaseousMaterialsCar
+Car ID: 88, Weight: 167.0, Type: RefrigeratedCar
+Car ID: 87, Weight: 183.0, Type: GaseousMaterialsCar
+Car ID: 84, Weight: 193.0, Type: LiquidToxicMaterialsCar
+
+Trainset: 13
+Route Length: 31205.710219060136
+Railroad Cars:
+Car ID: 103, Weight: 119.0, Type: PostOfficeCar
+Car ID: 99, Weight: 125.0, Type: PostOfficeCar
+Car ID: 98, Weight: 131.0, Type: RefrigeratedCar
+Car ID: 102, Weight: 139.0, Type: PostOfficeCar
+Car ID: 101, Weight: 142.0, Type: FreightBasicCar
+Car ID: 100, Weight: 146.0, Type: RestaurantCar
+
+Trainset: 22
+Route Length: 28292.434623507936
+Railroad Cars:
+Car ID: 173, Weight: 106.0, Type: BaggageAndMailCar
+Car ID: 169, Weight: 130.0, Type: PassengerCar
+Car ID: 168, Weight: 132.0, Type: PostOfficeCar
+Car ID: 170, Weight: 138.0, Type: HeavyFreightCar
+Car ID: 172, Weight: 151.0, Type: BaggageAndMailCar
+Car ID: 171, Weight: 173.0, Type: LiquidToxicMaterialsCar
+
+Trainset: 5
+Route Length: 28015.803546521558
+Railroad Cars:
+Car ID: 38, Weight: 110.0, Type: BaggageAndMailCar
+Car ID: 34, Weight: 120.0, Type: LiquidMaterialsCar
+Car ID: 35, Weight: 123.0, Type: LiquidMaterialsCar
+Car ID: 40, Weight: 140.0, Type: ToxicMaterialsCar
+Car ID: 42, Weight: 143.0, Type: RestaurantCar
+Car ID: 37, Weight: 179.0, Type: PostOfficeCar
+Car ID: 41, Weight: 180.0, Type: GaseousMaterialsCar
+Car ID: 39, Weight: 184.0, Type: ExplosivesCar
+Car ID: 43, Weight: 190.0, Type: ExplosivesCar
+Car ID: 36, Weight: 199.0, Type: LiquidToxicMaterialsCar
+
+Trainset: 2
+Route Length: 18570.767544617058
+Railroad Cars:
+Car ID: 16, Weight: 103.0, Type: ToxicMaterialsCar
+Car ID: 17, Weight: 121.0, Type: LiquidToxicMaterialsCar
+Car ID: 20, Weight: 121.0, Type: LiquidMaterialsCar
+Car ID: 19, Weight: 164.0, Type: RestaurantCar
+Car ID: 15, Weight: 176.0, Type: LiquidMaterialsCar
+Car ID: 18, Weight: 180.0, Type: RefrigeratedCar
+
+Trainset: 9
+Route Length: 15601.345281284404
+Railroad Cars:
+Car ID: 76, Weight: 116.0, Type: RestaurantCar
+Car ID: 69, Weight: 143.0, Type: RefrigeratedCar
+Car ID: 74, Weight: 145.0, Type: HeavyFreightCar
+Car ID: 77, Weight: 148.0, Type: GaseousMaterialsCar
+Car ID: 71, Weight: 149.0, Type: GaseousMaterialsCar
+Car ID: 73, Weight: 162.0, Type: HeavyFreightCar
+Car ID: 68, Weight: 165.0, Type: FreightBasicCar
+Car ID: 70, Weight: 168.0, Type: LiquidToxicMaterialsCar
+Car ID: 72, Weight: 183.0, Type: RestaurantCar
+Car ID: 75, Weight: 190.0, Type: LiquidToxicMaterialsCar
+
+Trainset: 8
+Route Length: 10282.755318546102
+Railroad Cars:
+Car ID: 67, Weight: 101.0, Type: ExplosivesCar
+Car ID: 58, Weight: 113.0, Type: LiquidToxicMaterialsCar
+Car ID: 64, Weight: 122.0, Type: PassengerCar
+Car ID: 59, Weight: 126.0, Type: ExplosivesCar
+Car ID: 61, Weight: 127.0, Type: BaggageAndMailCar
+Car ID: 60, Weight: 129.0, Type: FreightBasicCar
+Car ID: 66, Weight: 146.0, Type: PostOfficeCar
+Car ID: 62, Weight: 168.0, Type: GaseousMaterialsCar
+Car ID: 65, Weight: 193.0, Type: ToxicMaterialsCar
+Car ID: 63, Weight: 194.0, Type: HeavyFreightCar
+
+Trainset: 7
+Route Length: 10095.744150344171
+Railroad Cars:
+Car ID: 53, Weight: 122.0, Type: LiquidMaterialsCar
+Car ID: 54, Weight: 125.0, Type: RestaurantCar
+Car ID: 57, Weight: 146.0, Type: BaggageAndMailCar
+Car ID: 55, Weight: 165.0, Type: LiquidToxicMaterialsCar
+Car ID: 56, Weight: 199.0, Type: GaseousMaterialsCar
+
+Trainset: 4
+Route Length: 9206.734996835336
+Railroad Cars:
+Car ID: 30, Weight: 103.0, Type: FreightBasicCar
+Car ID: 31, Weight: 126.0, Type: PassengerCar
+Car ID: 27, Weight: 139.0, Type: LiquidMaterialsCar
+Car ID: 29, Weight: 142.0, Type: PostOfficeCar
+Car ID: 32, Weight: 148.0, Type: PostOfficeCar
+Car ID: 28, Weight: 170.0, Type: RefrigeratedCar
+Car ID: 26, Weight: 187.0, Type: RefrigeratedCar
+Car ID: 33, Weight: 198.0, Type: ExplosivesCar
+
+Trainset: 19
+Route Length: 9201.7978547003
+Railroad Cars:
+Car ID: 149, Weight: 113.0, Type: FreightBasicCar
+Car ID: 151, Weight: 116.0, Type: RestaurantCar
+Car ID: 153, Weight: 119.0, Type: LiquidMaterialsCar
+Car ID: 150, Weight: 126.0, Type: GaseousMaterialsCar
+Car ID: 145, Weight: 126.0, Type: ExplosivesCar
+Car ID: 146, Weight: 131.0, Type: HeavyFreightCar
+Car ID: 152, Weight: 163.0, Type: BaggageAndMailCar
+Car ID: 148, Weight: 173.0, Type: RefrigeratedCar
+Car ID: 144, Weight: 178.0, Type: RestaurantCar
+Car ID: 147, Weight: 190.0, Type: RefrigeratedCar
+
