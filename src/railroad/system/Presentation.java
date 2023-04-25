@@ -66,6 +66,7 @@ public class Presentation {
         railwaySystem.removeLocomotive(locomotive3);
         System.out.println("Objects have been deleted");
 
+        System.out.println("bla");
     }
 
 }
